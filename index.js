@@ -5,7 +5,7 @@ const morgan = require('morgan');
 const app= express();
 const router = require("./router");
 const mongoose = require("mongoose");
-var t=10;
+var t=1;
 
 //db setup
 
